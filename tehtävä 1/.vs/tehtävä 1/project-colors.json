@@ -1,11 +1,11 @@
 {
   "Version": 1,
   "ProjectMap": {
-    "57d47769-48f3-4c78-a3a2-3e5fb16815fc": {
-      "ProjectGuid": "57d47769-48f3-4c78-a3a2-3e5fb16815fc",
-      "DisplayName": "tehtävä 1",
-      "ColorIndex": 0
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 0
 }

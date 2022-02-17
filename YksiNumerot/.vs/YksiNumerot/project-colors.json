@@ -1,11 +1,11 @@
 {
   "Version": 1,
   "ProjectMap": {
-    "46b729a6-3c54-44d8-a411-96b2e382b79a": {
-      "ProjectGuid": "46b729a6-3c54-44d8-a411-96b2e382b79a",
-      "DisplayName": "YksiNumerot",
-      "ColorIndex": 0
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 0
 }
