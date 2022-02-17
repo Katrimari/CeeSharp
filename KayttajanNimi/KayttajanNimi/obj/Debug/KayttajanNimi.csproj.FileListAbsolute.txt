@@ -1,0 +1,8 @@
+C:\Users\Okehittaja\source\repos\CeeSharp\KayttajanNimi\KayttajanNimi\bin\Debug\KayttajanNimi.exe.config
+C:\Users\Okehittaja\source\repos\CeeSharp\KayttajanNimi\KayttajanNimi\bin\Debug\KayttajanNimi.exe
+C:\Users\Okehittaja\source\repos\CeeSharp\KayttajanNimi\KayttajanNimi\bin\Debug\KayttajanNimi.pdb
+C:\Users\Okehittaja\source\repos\CeeSharp\KayttajanNimi\KayttajanNimi\obj\Debug\KayttajanNimi.csproj.AssemblyReference.cache
+C:\Users\Okehittaja\source\repos\CeeSharp\KayttajanNimi\KayttajanNimi\obj\Debug\KayttajanNimi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Okehittaja\source\repos\CeeSharp\KayttajanNimi\KayttajanNimi\obj\Debug\KayttajanNimi.csproj.CoreCompileInputs.cache
+C:\Users\Okehittaja\source\repos\CeeSharp\KayttajanNimi\KayttajanNimi\obj\Debug\KayttajanNimi.exe
+C:\Users\Okehittaja\source\repos\CeeSharp\KayttajanNimi\KayttajanNimi\obj\Debug\KayttajanNimi.pdb
