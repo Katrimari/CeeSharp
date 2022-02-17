@@ -1,0 +1,7 @@
+C:\Users\Katri\source\repot\CeeSharp\Tehtävä 3 (s.15)\Tehtävä 3 (s.15)\bin\Debug\Tehtävä 3 (s.15).exe.config
+C:\Users\Katri\source\repot\CeeSharp\Tehtävä 3 (s.15)\Tehtävä 3 (s.15)\bin\Debug\Tehtävä 3 (s.15).exe
+C:\Users\Katri\source\repot\CeeSharp\Tehtävä 3 (s.15)\Tehtävä 3 (s.15)\bin\Debug\Tehtävä 3 (s.15).pdb
+C:\Users\Katri\source\repot\CeeSharp\Tehtävä 3 (s.15)\Tehtävä 3 (s.15)\obj\Debug\Tehtävä 3 (s.15).csproj.SuggestedBindingRedirects.cache
+C:\Users\Katri\source\repot\CeeSharp\Tehtävä 3 (s.15)\Tehtävä 3 (s.15)\obj\Debug\Tehtävä 3 (s.15).csproj.CoreCompileInputs.cache
+C:\Users\Katri\source\repot\CeeSharp\Tehtävä 3 (s.15)\Tehtävä 3 (s.15)\obj\Debug\Tehtävä 3 (s.15).exe
+C:\Users\Katri\source\repot\CeeSharp\Tehtävä 3 (s.15)\Tehtävä 3 (s.15)\obj\Debug\Tehtävä 3 (s.15).pdb

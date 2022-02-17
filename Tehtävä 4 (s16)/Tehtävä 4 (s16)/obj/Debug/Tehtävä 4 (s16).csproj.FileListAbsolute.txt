@@ -1,0 +1,7 @@
+C:\Users\Katri\source\repot\CeeSharp\Tehtävä 4 (s16)\Tehtävä 4 (s16)\bin\Debug\Tehtävä 4 (s16).exe.config
+C:\Users\Katri\source\repot\CeeSharp\Tehtävä 4 (s16)\Tehtävä 4 (s16)\bin\Debug\Tehtävä 4 (s16).exe
+C:\Users\Katri\source\repot\CeeSharp\Tehtävä 4 (s16)\Tehtävä 4 (s16)\bin\Debug\Tehtävä 4 (s16).pdb
+C:\Users\Katri\source\repot\CeeSharp\Tehtävä 4 (s16)\Tehtävä 4 (s16)\obj\Debug\Tehtävä 4 (s16).csproj.SuggestedBindingRedirects.cache
+C:\Users\Katri\source\repot\CeeSharp\Tehtävä 4 (s16)\Tehtävä 4 (s16)\obj\Debug\Tehtävä 4 (s16).csproj.CoreCompileInputs.cache
+C:\Users\Katri\source\repot\CeeSharp\Tehtävä 4 (s16)\Tehtävä 4 (s16)\obj\Debug\Tehtävä 4 (s16).exe
+C:\Users\Katri\source\repot\CeeSharp\Tehtävä 4 (s16)\Tehtävä 4 (s16)\obj\Debug\Tehtävä 4 (s16).pdb

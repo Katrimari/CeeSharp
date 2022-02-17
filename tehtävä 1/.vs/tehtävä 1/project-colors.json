@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "57d47769-48f3-4c78-a3a2-3e5fb16815fc": {
+      "ProjectGuid": "57d47769-48f3-4c78-a3a2-3e5fb16815fc",
+      "DisplayName": "tehtävä 1",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
