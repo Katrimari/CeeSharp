@@ -1,0 +1,11 @@
+C:\Users\Katri\source\repot\CeeSharp\Heita_Noppaa\Heita_Noppaa\bin\Debug\Heita_Noppaa.exe.config
+C:\Users\Katri\source\repot\CeeSharp\Heita_Noppaa\Heita_Noppaa\bin\Debug\Heita_Noppaa.exe
+C:\Users\Katri\source\repot\CeeSharp\Heita_Noppaa\Heita_Noppaa\bin\Debug\Heita_Noppaa.pdb
+C:\Users\Katri\source\repot\CeeSharp\Heita_Noppaa\Heita_Noppaa\obj\Debug\Heita_Noppaa.csproj.AssemblyReference.cache
+C:\Users\Katri\source\repot\CeeSharp\Heita_Noppaa\Heita_Noppaa\obj\Debug\Heita_Noppaa.csproj.SuggestedBindingRedirects.cache
+C:\Users\Katri\source\repot\CeeSharp\Heita_Noppaa\Heita_Noppaa\obj\Debug\Heita_Noppaa.HeitanoppaaFM.resources
+C:\Users\Katri\source\repot\CeeSharp\Heita_Noppaa\Heita_Noppaa\obj\Debug\Heita_Noppaa.Properties.Resources.resources
+C:\Users\Katri\source\repot\CeeSharp\Heita_Noppaa\Heita_Noppaa\obj\Debug\Heita_Noppaa.csproj.GenerateResource.cache
+C:\Users\Katri\source\repot\CeeSharp\Heita_Noppaa\Heita_Noppaa\obj\Debug\Heita_Noppaa.csproj.CoreCompileInputs.cache
+C:\Users\Katri\source\repot\CeeSharp\Heita_Noppaa\Heita_Noppaa\obj\Debug\Heita_Noppaa.exe
+C:\Users\Katri\source\repot\CeeSharp\Heita_Noppaa\Heita_Noppaa\obj\Debug\Heita_Noppaa.pdb

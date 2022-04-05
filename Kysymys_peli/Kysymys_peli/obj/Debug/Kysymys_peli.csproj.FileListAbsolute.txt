@@ -1,0 +1,11 @@
+C:\Users\Katri\source\repot\CeeSharp\Kysymys_peli\Kysymys_peli\bin\Debug\Kysymys_peli.exe.config
+C:\Users\Katri\source\repot\CeeSharp\Kysymys_peli\Kysymys_peli\bin\Debug\Kysymys_peli.exe
+C:\Users\Katri\source\repot\CeeSharp\Kysymys_peli\Kysymys_peli\bin\Debug\Kysymys_peli.pdb
+C:\Users\Katri\source\repot\CeeSharp\Kysymys_peli\Kysymys_peli\obj\Debug\Kysymys_peli.csproj.AssemblyReference.cache
+C:\Users\Katri\source\repot\CeeSharp\Kysymys_peli\Kysymys_peli\obj\Debug\Kysymys_peli.csproj.SuggestedBindingRedirects.cache
+C:\Users\Katri\source\repot\CeeSharp\Kysymys_peli\Kysymys_peli\obj\Debug\Kysymys_peli.VastauslomakeFM.resources
+C:\Users\Katri\source\repot\CeeSharp\Kysymys_peli\Kysymys_peli\obj\Debug\Kysymys_peli.Properties.Resources.resources
+C:\Users\Katri\source\repot\CeeSharp\Kysymys_peli\Kysymys_peli\obj\Debug\Kysymys_peli.csproj.GenerateResource.cache
+C:\Users\Katri\source\repot\CeeSharp\Kysymys_peli\Kysymys_peli\obj\Debug\Kysymys_peli.csproj.CoreCompileInputs.cache
+C:\Users\Katri\source\repot\CeeSharp\Kysymys_peli\Kysymys_peli\obj\Debug\Kysymys_peli.exe
+C:\Users\Katri\source\repot\CeeSharp\Kysymys_peli\Kysymys_peli\obj\Debug\Kysymys_peli.pdb

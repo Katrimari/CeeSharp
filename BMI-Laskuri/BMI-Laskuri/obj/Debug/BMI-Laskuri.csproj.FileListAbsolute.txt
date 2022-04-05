@@ -1,0 +1,11 @@
+C:\Users\Katri\source\repot\CeeSharp\BMI-Laskuri\BMI-Laskuri\bin\Debug\BMI-Laskuri.exe.config
+C:\Users\Katri\source\repot\CeeSharp\BMI-Laskuri\BMI-Laskuri\bin\Debug\BMI-Laskuri.exe
+C:\Users\Katri\source\repot\CeeSharp\BMI-Laskuri\BMI-Laskuri\bin\Debug\BMI-Laskuri.pdb
+C:\Users\Katri\source\repot\CeeSharp\BMI-Laskuri\BMI-Laskuri\obj\Debug\BMI-Laskuri.csproj.AssemblyReference.cache
+C:\Users\Katri\source\repot\CeeSharp\BMI-Laskuri\BMI-Laskuri\obj\Debug\BMI-Laskuri.csproj.SuggestedBindingRedirects.cache
+C:\Users\Katri\source\repot\CeeSharp\BMI-Laskuri\BMI-Laskuri\obj\Debug\BMI_Laskuri.Form1.resources
+C:\Users\Katri\source\repot\CeeSharp\BMI-Laskuri\BMI-Laskuri\obj\Debug\BMI_Laskuri.Properties.Resources.resources
+C:\Users\Katri\source\repot\CeeSharp\BMI-Laskuri\BMI-Laskuri\obj\Debug\BMI-Laskuri.csproj.GenerateResource.cache
+C:\Users\Katri\source\repot\CeeSharp\BMI-Laskuri\BMI-Laskuri\obj\Debug\BMI-Laskuri.csproj.CoreCompileInputs.cache
+C:\Users\Katri\source\repot\CeeSharp\BMI-Laskuri\BMI-Laskuri\obj\Debug\BMI-Laskuri.exe
+C:\Users\Katri\source\repot\CeeSharp\BMI-Laskuri\BMI-Laskuri\obj\Debug\BMI-Laskuri.pdb

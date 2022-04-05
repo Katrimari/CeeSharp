@@ -1,0 +1,11 @@
+C:\Users\Katri\source\repot\CeeSharp\EkaHarjoitus\EkaHarjoitus\bin\Debug\EkaHarjoitus.exe.config
+C:\Users\Katri\source\repot\CeeSharp\EkaHarjoitus\EkaHarjoitus\bin\Debug\EkaHarjoitus.exe
+C:\Users\Katri\source\repot\CeeSharp\EkaHarjoitus\EkaHarjoitus\bin\Debug\EkaHarjoitus.pdb
+C:\Users\Katri\source\repot\CeeSharp\EkaHarjoitus\EkaHarjoitus\obj\Debug\EkaHarjoitus.csproj.AssemblyReference.cache
+C:\Users\Katri\source\repot\CeeSharp\EkaHarjoitus\EkaHarjoitus\obj\Debug\EkaHarjoitus.csproj.SuggestedBindingRedirects.cache
+C:\Users\Katri\source\repot\CeeSharp\EkaHarjoitus\EkaHarjoitus\obj\Debug\EkaHarjoitus.Otsikko.resources
+C:\Users\Katri\source\repot\CeeSharp\EkaHarjoitus\EkaHarjoitus\obj\Debug\EkaHarjoitus.Properties.Resources.resources
+C:\Users\Katri\source\repot\CeeSharp\EkaHarjoitus\EkaHarjoitus\obj\Debug\EkaHarjoitus.csproj.GenerateResource.cache
+C:\Users\Katri\source\repot\CeeSharp\EkaHarjoitus\EkaHarjoitus\obj\Debug\EkaHarjoitus.csproj.CoreCompileInputs.cache
+C:\Users\Katri\source\repot\CeeSharp\EkaHarjoitus\EkaHarjoitus\obj\Debug\EkaHarjoitus.exe
+C:\Users\Katri\source\repot\CeeSharp\EkaHarjoitus\EkaHarjoitus\obj\Debug\EkaHarjoitus.pdb

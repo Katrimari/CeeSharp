@@ -1,0 +1,11 @@
+C:\Users\Katri\source\repot\CeeSharp\Suositut_Nimet\Suositut_Nimet\bin\Debug\Suositut_Nimet.exe.config
+C:\Users\Katri\source\repot\CeeSharp\Suositut_Nimet\Suositut_Nimet\bin\Debug\Suositut_Nimet.exe
+C:\Users\Katri\source\repot\CeeSharp\Suositut_Nimet\Suositut_Nimet\bin\Debug\Suositut_Nimet.pdb
+C:\Users\Katri\source\repot\CeeSharp\Suositut_Nimet\Suositut_Nimet\obj\Debug\Suositut_Nimet.csproj.AssemblyReference.cache
+C:\Users\Katri\source\repot\CeeSharp\Suositut_Nimet\Suositut_Nimet\obj\Debug\Suositut_Nimet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Katri\source\repot\CeeSharp\Suositut_Nimet\Suositut_Nimet\obj\Debug\Suositut_Nimet.SuositutNimetFM.resources
+C:\Users\Katri\source\repot\CeeSharp\Suositut_Nimet\Suositut_Nimet\obj\Debug\Suositut_Nimet.Properties.Resources.resources
+C:\Users\Katri\source\repot\CeeSharp\Suositut_Nimet\Suositut_Nimet\obj\Debug\Suositut_Nimet.csproj.GenerateResource.cache
+C:\Users\Katri\source\repot\CeeSharp\Suositut_Nimet\Suositut_Nimet\obj\Debug\Suositut_Nimet.csproj.CoreCompileInputs.cache
+C:\Users\Katri\source\repot\CeeSharp\Suositut_Nimet\Suositut_Nimet\obj\Debug\Suositut_Nimet.exe
+C:\Users\Katri\source\repot\CeeSharp\Suositut_Nimet\Suositut_Nimet\obj\Debug\Suositut_Nimet.pdb

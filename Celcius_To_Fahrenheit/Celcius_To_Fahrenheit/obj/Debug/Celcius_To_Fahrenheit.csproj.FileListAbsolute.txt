@@ -1,0 +1,11 @@
+C:\Users\Katri\source\repot\CeeSharp\Celcius_To_Fahrenheit\Celcius_To_Fahrenheit\bin\Debug\Celcius_To_Fahrenheit.exe.config
+C:\Users\Katri\source\repot\CeeSharp\Celcius_To_Fahrenheit\Celcius_To_Fahrenheit\bin\Debug\Celcius_To_Fahrenheit.exe
+C:\Users\Katri\source\repot\CeeSharp\Celcius_To_Fahrenheit\Celcius_To_Fahrenheit\bin\Debug\Celcius_To_Fahrenheit.pdb
+C:\Users\Katri\source\repot\CeeSharp\Celcius_To_Fahrenheit\Celcius_To_Fahrenheit\obj\Debug\Celcius_To_Fahrenheit.csproj.AssemblyReference.cache
+C:\Users\Katri\source\repot\CeeSharp\Celcius_To_Fahrenheit\Celcius_To_Fahrenheit\obj\Debug\Celcius_To_Fahrenheit.csproj.SuggestedBindingRedirects.cache
+C:\Users\Katri\source\repot\CeeSharp\Celcius_To_Fahrenheit\Celcius_To_Fahrenheit\obj\Debug\Celcius_To_Fahrenheit.Form1.resources
+C:\Users\Katri\source\repot\CeeSharp\Celcius_To_Fahrenheit\Celcius_To_Fahrenheit\obj\Debug\Celcius_To_Fahrenheit.Properties.Resources.resources
+C:\Users\Katri\source\repot\CeeSharp\Celcius_To_Fahrenheit\Celcius_To_Fahrenheit\obj\Debug\Celcius_To_Fahrenheit.csproj.GenerateResource.cache
+C:\Users\Katri\source\repot\CeeSharp\Celcius_To_Fahrenheit\Celcius_To_Fahrenheit\obj\Debug\Celcius_To_Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\Katri\source\repot\CeeSharp\Celcius_To_Fahrenheit\Celcius_To_Fahrenheit\obj\Debug\Celcius_To_Fahrenheit.exe
+C:\Users\Katri\source\repot\CeeSharp\Celcius_To_Fahrenheit\Celcius_To_Fahrenheit\obj\Debug\Celcius_To_Fahrenheit.pdb

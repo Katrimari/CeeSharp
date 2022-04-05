@@ -1,0 +1,11 @@
+C:\Users\Katri\source\repot\CeeSharp\LukujenJarjestys\LukujenJarjestys\bin\Debug\LukujenJarjestys.exe.config
+C:\Users\Katri\source\repot\CeeSharp\LukujenJarjestys\LukujenJarjestys\bin\Debug\LukujenJarjestys.exe
+C:\Users\Katri\source\repot\CeeSharp\LukujenJarjestys\LukujenJarjestys\bin\Debug\LukujenJarjestys.pdb
+C:\Users\Katri\source\repot\CeeSharp\LukujenJarjestys\LukujenJarjestys\obj\Debug\LukujenJarjestys.csproj.AssemblyReference.cache
+C:\Users\Katri\source\repot\CeeSharp\LukujenJarjestys\LukujenJarjestys\obj\Debug\LukujenJarjestys.csproj.SuggestedBindingRedirects.cache
+C:\Users\Katri\source\repot\CeeSharp\LukujenJarjestys\LukujenJarjestys\obj\Debug\LukujenJarjestys.JarjestaLuvutFM.resources
+C:\Users\Katri\source\repot\CeeSharp\LukujenJarjestys\LukujenJarjestys\obj\Debug\LukujenJarjestys.Properties.Resources.resources
+C:\Users\Katri\source\repot\CeeSharp\LukujenJarjestys\LukujenJarjestys\obj\Debug\LukujenJarjestys.csproj.GenerateResource.cache
+C:\Users\Katri\source\repot\CeeSharp\LukujenJarjestys\LukujenJarjestys\obj\Debug\LukujenJarjestys.csproj.CoreCompileInputs.cache
+C:\Users\Katri\source\repot\CeeSharp\LukujenJarjestys\LukujenJarjestys\obj\Debug\LukujenJarjestys.exe
+C:\Users\Katri\source\repot\CeeSharp\LukujenJarjestys\LukujenJarjestys\obj\Debug\LukujenJarjestys.pdb

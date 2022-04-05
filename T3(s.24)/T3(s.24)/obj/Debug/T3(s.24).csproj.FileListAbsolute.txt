@@ -1,0 +1,8 @@
+C:\Users\Katri\source\repot\CeeSharp\T3(s.24)\T3(s.24)\bin\Debug\T3(s.24).exe.config
+C:\Users\Katri\source\repot\CeeSharp\T3(s.24)\T3(s.24)\bin\Debug\T3(s.24).exe
+C:\Users\Katri\source\repot\CeeSharp\T3(s.24)\T3(s.24)\bin\Debug\T3(s.24).pdb
+C:\Users\Katri\source\repot\CeeSharp\T3(s.24)\T3(s.24)\obj\Debug\T3(s.24).csproj.AssemblyReference.cache
+C:\Users\Katri\source\repot\CeeSharp\T3(s.24)\T3(s.24)\obj\Debug\T3(s.24).csproj.SuggestedBindingRedirects.cache
+C:\Users\Katri\source\repot\CeeSharp\T3(s.24)\T3(s.24)\obj\Debug\T3(s.24).csproj.CoreCompileInputs.cache
+C:\Users\Katri\source\repot\CeeSharp\T3(s.24)\T3(s.24)\obj\Debug\T3(s.24).exe
+C:\Users\Katri\source\repot\CeeSharp\T3(s.24)\T3(s.24)\obj\Debug\T3(s.24).pdb

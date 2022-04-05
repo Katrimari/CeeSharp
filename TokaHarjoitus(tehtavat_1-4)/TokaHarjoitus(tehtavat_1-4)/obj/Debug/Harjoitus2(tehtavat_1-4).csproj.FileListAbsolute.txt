@@ -1,0 +1,11 @@
+C:\Users\Katri\source\repot\CeeSharp\TokaHarjoitus(tehtavat_1-4)\TokaHarjoitus(tehtavat_1-4)\bin\Debug\TokaHarjoitus(tehtavat_1-4).exe.config
+C:\Users\Katri\source\repot\CeeSharp\TokaHarjoitus(tehtavat_1-4)\TokaHarjoitus(tehtavat_1-4)\bin\Debug\TokaHarjoitus(tehtavat_1-4).exe
+C:\Users\Katri\source\repot\CeeSharp\TokaHarjoitus(tehtavat_1-4)\TokaHarjoitus(tehtavat_1-4)\bin\Debug\TokaHarjoitus(tehtavat_1-4).pdb
+C:\Users\Katri\source\repot\CeeSharp\TokaHarjoitus(tehtavat_1-4)\TokaHarjoitus(tehtavat_1-4)\obj\Debug\Harjoitus2(tehtavat_1-4).csproj.AssemblyReference.cache
+C:\Users\Katri\source\repot\CeeSharp\TokaHarjoitus(tehtavat_1-4)\TokaHarjoitus(tehtavat_1-4)\obj\Debug\Harjoitus2(tehtavat_1-4).csproj.SuggestedBindingRedirects.cache
+C:\Users\Katri\source\repot\CeeSharp\TokaHarjoitus(tehtavat_1-4)\TokaHarjoitus(tehtavat_1-4)\obj\Debug\TokaHarjoitus_tehtavat_1_4_.Harjoitus2FM.resources
+C:\Users\Katri\source\repot\CeeSharp\TokaHarjoitus(tehtavat_1-4)\TokaHarjoitus(tehtavat_1-4)\obj\Debug\TokaHarjoitus_tehtavat_1_4_.Properties.Resources.resources
+C:\Users\Katri\source\repot\CeeSharp\TokaHarjoitus(tehtavat_1-4)\TokaHarjoitus(tehtavat_1-4)\obj\Debug\Harjoitus2(tehtavat_1-4).csproj.GenerateResource.cache
+C:\Users\Katri\source\repot\CeeSharp\TokaHarjoitus(tehtavat_1-4)\TokaHarjoitus(tehtavat_1-4)\obj\Debug\Harjoitus2(tehtavat_1-4).csproj.CoreCompileInputs.cache
+C:\Users\Katri\source\repot\CeeSharp\TokaHarjoitus(tehtavat_1-4)\TokaHarjoitus(tehtavat_1-4)\obj\Debug\TokaHarjoitus(tehtavat_1-4).exe
+C:\Users\Katri\source\repot\CeeSharp\TokaHarjoitus(tehtavat_1-4)\TokaHarjoitus(tehtavat_1-4)\obj\Debug\TokaHarjoitus(tehtavat_1-4).pdb

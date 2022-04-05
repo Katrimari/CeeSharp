@@ -1,0 +1,11 @@
+C:\Users\Katri\source\repot\CeeSharp\Laskin(Tehtävät_1-4)\Laskin(Tehtävät_1-4)\bin\Debug\Laskin(Tehtävät_1-4).exe.config
+C:\Users\Katri\source\repot\CeeSharp\Laskin(Tehtävät_1-4)\Laskin(Tehtävät_1-4)\bin\Debug\Laskin(Tehtävät_1-4).exe
+C:\Users\Katri\source\repot\CeeSharp\Laskin(Tehtävät_1-4)\Laskin(Tehtävät_1-4)\bin\Debug\Laskin(Tehtävät_1-4).pdb
+C:\Users\Katri\source\repot\CeeSharp\Laskin(Tehtävät_1-4)\Laskin(Tehtävät_1-4)\obj\Debug\Laskin(Tehtävät_1-4).csproj.AssemblyReference.cache
+C:\Users\Katri\source\repot\CeeSharp\Laskin(Tehtävät_1-4)\Laskin(Tehtävät_1-4)\obj\Debug\Laskin(Tehtävät_1-4).csproj.SuggestedBindingRedirects.cache
+C:\Users\Katri\source\repot\CeeSharp\Laskin(Tehtävät_1-4)\Laskin(Tehtävät_1-4)\obj\Debug\Laskin_Tehtävät_1_4_.LaskinFM.resources
+C:\Users\Katri\source\repot\CeeSharp\Laskin(Tehtävät_1-4)\Laskin(Tehtävät_1-4)\obj\Debug\Laskin_Tehtävät_1_4_.Properties.Resources.resources
+C:\Users\Katri\source\repot\CeeSharp\Laskin(Tehtävät_1-4)\Laskin(Tehtävät_1-4)\obj\Debug\Laskin(Tehtävät_1-4).csproj.GenerateResource.cache
+C:\Users\Katri\source\repot\CeeSharp\Laskin(Tehtävät_1-4)\Laskin(Tehtävät_1-4)\obj\Debug\Laskin(Tehtävät_1-4).csproj.CoreCompileInputs.cache
+C:\Users\Katri\source\repot\CeeSharp\Laskin(Tehtävät_1-4)\Laskin(Tehtävät_1-4)\obj\Debug\Laskin(Tehtävät_1-4).exe
+C:\Users\Katri\source\repot\CeeSharp\Laskin(Tehtävät_1-4)\Laskin(Tehtävät_1-4)\obj\Debug\Laskin(Tehtävät_1-4).pdb

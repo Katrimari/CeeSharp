@@ -1,0 +1,11 @@
+C:\Users\Katri\source\repot\CeeSharp\KilometrikulutusMittari\KilometrikulutusMittari\bin\Debug\KilometrikulutusMittari.exe.config
+C:\Users\Katri\source\repot\CeeSharp\KilometrikulutusMittari\KilometrikulutusMittari\bin\Debug\KilometrikulutusMittari.exe
+C:\Users\Katri\source\repot\CeeSharp\KilometrikulutusMittari\KilometrikulutusMittari\bin\Debug\KilometrikulutusMittari.pdb
+C:\Users\Katri\source\repot\CeeSharp\KilometrikulutusMittari\KilometrikulutusMittari\obj\Debug\KilometrikulutusMittari.csproj.AssemblyReference.cache
+C:\Users\Katri\source\repot\CeeSharp\KilometrikulutusMittari\KilometrikulutusMittari\obj\Debug\KilometrikulutusMittari.csproj.SuggestedBindingRedirects.cache
+C:\Users\Katri\source\repot\CeeSharp\KilometrikulutusMittari\KilometrikulutusMittari\obj\Debug\KilometrikulutusMittari.KilometrikululaskuriFM.resources
+C:\Users\Katri\source\repot\CeeSharp\KilometrikulutusMittari\KilometrikulutusMittari\obj\Debug\KilometrikulutusMittari.Properties.Resources.resources
+C:\Users\Katri\source\repot\CeeSharp\KilometrikulutusMittari\KilometrikulutusMittari\obj\Debug\KilometrikulutusMittari.csproj.GenerateResource.cache
+C:\Users\Katri\source\repot\CeeSharp\KilometrikulutusMittari\KilometrikulutusMittari\obj\Debug\KilometrikulutusMittari.csproj.CoreCompileInputs.cache
+C:\Users\Katri\source\repot\CeeSharp\KilometrikulutusMittari\KilometrikulutusMittari\obj\Debug\KilometrikulutusMittari.exe
+C:\Users\Katri\source\repot\CeeSharp\KilometrikulutusMittari\KilometrikulutusMittari\obj\Debug\KilometrikulutusMittari.pdb

@@ -1,0 +1,3 @@
+C:\Users\Katri\source\repot\CeeSharp\tehtävä 6(s.24)\tehtävä 6(s.24)\obj\Debug\tehtävä 6(s.24).csproj.AssemblyReference.cache
+C:\Users\Katri\source\repot\CeeSharp\tehtävä 6(s.24)\tehtävä 6(s.24)\obj\Debug\tehtävä 6(s.24).csproj.SuggestedBindingRedirects.cache
+C:\Users\Katri\source\repot\CeeSharp\tehtävä 6(s.24)\tehtävä 6(s.24)\obj\Debug\tehtävä 6(s.24).csproj.CoreCompileInputs.cache
