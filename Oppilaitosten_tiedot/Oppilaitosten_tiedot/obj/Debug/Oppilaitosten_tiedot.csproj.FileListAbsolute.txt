@@ -1,0 +1,11 @@
+C:\Users\Katri\source\repot\CeeSharp\Oppilaitosten_tiedot\Oppilaitosten_tiedot\bin\Debug\Oppilaitosten_tiedot.exe.config
+C:\Users\Katri\source\repot\CeeSharp\Oppilaitosten_tiedot\Oppilaitosten_tiedot\bin\Debug\Oppilaitosten_tiedot.exe
+C:\Users\Katri\source\repot\CeeSharp\Oppilaitosten_tiedot\Oppilaitosten_tiedot\bin\Debug\Oppilaitosten_tiedot.pdb
+C:\Users\Katri\source\repot\CeeSharp\Oppilaitosten_tiedot\Oppilaitosten_tiedot\obj\Debug\Oppilaitosten_tiedot.csproj.AssemblyReference.cache
+C:\Users\Katri\source\repot\CeeSharp\Oppilaitosten_tiedot\Oppilaitosten_tiedot\obj\Debug\Oppilaitosten_tiedot.csproj.SuggestedBindingRedirects.cache
+C:\Users\Katri\source\repot\CeeSharp\Oppilaitosten_tiedot\Oppilaitosten_tiedot\obj\Debug\Oppilaitosten_tiedot.OPtiedotFM.resources
+C:\Users\Katri\source\repot\CeeSharp\Oppilaitosten_tiedot\Oppilaitosten_tiedot\obj\Debug\Oppilaitosten_tiedot.Properties.Resources.resources
+C:\Users\Katri\source\repot\CeeSharp\Oppilaitosten_tiedot\Oppilaitosten_tiedot\obj\Debug\Oppilaitosten_tiedot.csproj.GenerateResource.cache
+C:\Users\Katri\source\repot\CeeSharp\Oppilaitosten_tiedot\Oppilaitosten_tiedot\obj\Debug\Oppilaitosten_tiedot.csproj.CoreCompileInputs.cache
+C:\Users\Katri\source\repot\CeeSharp\Oppilaitosten_tiedot\Oppilaitosten_tiedot\obj\Debug\Oppilaitosten_tiedot.exe
+C:\Users\Katri\source\repot\CeeSharp\Oppilaitosten_tiedot\Oppilaitosten_tiedot\obj\Debug\Oppilaitosten_tiedot.pdb
