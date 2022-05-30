@@ -1,0 +1,11 @@
+C:\Users\Katri\source\repot\CeeSharp\PacMan\PacMan\bin\Debug\PacMan.exe.config
+C:\Users\Katri\source\repot\CeeSharp\PacMan\PacMan\bin\Debug\PacMan.exe
+C:\Users\Katri\source\repot\CeeSharp\PacMan\PacMan\bin\Debug\PacMan.pdb
+C:\Users\Katri\source\repot\CeeSharp\PacMan\PacMan\obj\Debug\PacMan.csproj.AssemblyReference.cache
+C:\Users\Katri\source\repot\CeeSharp\PacMan\PacMan\obj\Debug\PacMan.csproj.SuggestedBindingRedirects.cache
+C:\Users\Katri\source\repot\CeeSharp\PacMan\PacMan\obj\Debug\PacMan.Form1.resources
+C:\Users\Katri\source\repot\CeeSharp\PacMan\PacMan\obj\Debug\PacMan.Properties.Resources.resources
+C:\Users\Katri\source\repot\CeeSharp\PacMan\PacMan\obj\Debug\PacMan.csproj.GenerateResource.cache
+C:\Users\Katri\source\repot\CeeSharp\PacMan\PacMan\obj\Debug\PacMan.csproj.CoreCompileInputs.cache
+C:\Users\Katri\source\repot\CeeSharp\PacMan\PacMan\obj\Debug\PacMan.exe
+C:\Users\Katri\source\repot\CeeSharp\PacMan\PacMan\obj\Debug\PacMan.pdb

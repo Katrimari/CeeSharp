@@ -1,0 +1,15 @@
+C:\Users\Katri\source\repot\CeeSharp\Studypoint\Studypoint\bin\Debug\Studypoint.exe.config
+C:\Users\Katri\source\repot\CeeSharp\Studypoint\Studypoint\bin\Debug\Studypoint.exe
+C:\Users\Katri\source\repot\CeeSharp\Studypoint\Studypoint\bin\Debug\Studypoint.pdb
+C:\Users\Katri\source\repot\CeeSharp\Studypoint\Studypoint\obj\Debug\Studypoint.csproj.AssemblyReference.cache
+C:\Users\Katri\source\repot\CeeSharp\Studypoint\Studypoint\obj\Debug\Studypoint.csproj.SuggestedBindingRedirects.cache
+C:\Users\Katri\source\repot\CeeSharp\Studypoint\Studypoint\obj\Debug\Studypoint.EtusivuFM.resources
+C:\Users\Katri\source\repot\CeeSharp\Studypoint\Studypoint\obj\Debug\Studypoint.Properties.Resources.resources
+C:\Users\Katri\source\repot\CeeSharp\Studypoint\Studypoint\obj\Debug\Studypoint.csproj.GenerateResource.cache
+C:\Users\Katri\source\repot\CeeSharp\Studypoint\Studypoint\obj\Debug\Studypoint.csproj.CoreCompileInputs.cache
+C:\Users\Katri\source\repot\CeeSharp\Studypoint\Studypoint\obj\Debug\Studypoint.exe
+C:\Users\Katri\source\repot\CeeSharp\Studypoint\Studypoint\obj\Debug\Studypoint.pdb
+C:\Users\Katri\source\repot\projekti\Projektit\Studypoint\Studypoint\obj\Debug\Studypoint.csproj.AssemblyReference.cache
+C:\Users\Katri\source\repot\projekti\Projektit\Studypoint\Studypoint\obj\Debug\Studypoint.csproj.SuggestedBindingRedirects.cache
+C:\Users\Katri\source\repot\projekti\Projektit\Studypoint\Studypoint\obj\Debug\Studypoint.exe
+C:\Users\Katri\source\repot\projekti\Projektit\Studypoint\Studypoint\obj\Debug\Studypoint.pdb
